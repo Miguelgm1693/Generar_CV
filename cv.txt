@@ -1,0 +1,14 @@
+>>>nombre
+Miguel González Mora
+>>>telefono
+666555888
+>>>correo
+miguelgm@gmail.com
+>>>formacion
+Técnico Superior en Óptica de Anteojería (2015-2017)
+Cursando CFGS de Desarrollo de Aplicaciones Multiplataforma (2019-2021)
+>>>experiencialaboral
+Servicios de Restauración (2012-2015)
+Grandes almacenes Soloptical (2017)
+Óptica Galiana (Campanillas) (2017-2019)
+
